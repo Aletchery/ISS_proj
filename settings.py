@@ -76,7 +76,7 @@ LOGOUT_REDIRECT_URL = '/'
 
 SESSION_EXPIRE_AT_BROWSER_CLOSE = True
 
-WSGI_APPLICATION = 'IIS.wsgi.application'
+WSGI_APPLICATION = 'wsgi.application'
 
 
 # Database
