@@ -145,7 +145,7 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = ( 
     os.path.join('static'), 
     'festivals/templates/authentication/'
-#)
+)
 
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
